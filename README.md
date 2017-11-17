@@ -1,3 +1,2 @@
 # hello-word
-Github tutorial 
-I am taking the baby steps to learn how to use GitHub. I have already learned a bit of the git command from and how to generate files there. Now I am ready to learn more here. 
+I am using GitHub tutorial to learn GitHub directly.Before, I had started by using Git Bash directly from my Terminal but I have some issues, hopefully I get to figure those out.
